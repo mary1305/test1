@@ -1,0 +1,11 @@
+h1 {
+  color:pink;
+  font-size: 20px;
+  font-family:"arial";
+  border:1px solid pink;
+}
+p {
+  font-family: cursive;
+  font-size: 30px;
+  color: darkblue;
+}
